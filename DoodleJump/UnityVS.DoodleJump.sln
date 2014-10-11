@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.DoodleJump.CSharp", "UnityVS.DoodleJump.CSharp.csproj", "{CCC2A29D-3527-49CF-F42A-0049C34AE1AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.DoodleJump.CSharp.Editor", "UnityVS.DoodleJump.CSharp.Editor.csproj", "{7EE0E5E9-20B7-02E4-0C33-D5139D42B862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC2A29D-3527-49CF-F42A-0049C34AE1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC2A29D-3527-49CF-F42A-0049C34AE1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC2A29D-3527-49CF-F42A-0049C34AE1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC2A29D-3527-49CF-F42A-0049C34AE1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE0E5E9-20B7-02E4-0C33-D5139D42B862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE0E5E9-20B7-02E4-0C33-D5139D42B862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE0E5E9-20B7-02E4-0C33-D5139D42B862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE0E5E9-20B7-02E4-0C33-D5139D42B862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
